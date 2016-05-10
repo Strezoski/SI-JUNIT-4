@@ -20,13 +20,12 @@ public class Test_141148 extends TestCase {
 		super.tearDown();
 	}
 	
-	@Test(expected = NoSuchElementException.class)
+	@Test
 	public void testBubbleSort() {
 		SI_JUNIT obj = new SI_JUNIT();
 		int [] num = {0, 4, 2, 1, 3};
 		int [] expected = {0, 1, 2, 3, 4};
 		int [] result = obj.BubbleSort(num);
-		
 		assertEquals(expected, result);
 		
 	}
