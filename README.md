@@ -5,7 +5,7 @@ A repository for the second mandatory laboratory exercise.
 
 Според multiple-condition критериумот и domain testing да се напишат unit тестови за методите од класата SI_JUNIT. 
 
-Класата за тестирање да биде именувана Test_<br_indeks>.java и истата да биде сместена во ./test/Test_<br_indeks>.java. Тест класата да се постави на оддалечениот репозиториум.
+Класата за тестирање да биде именувана Test_br_indeks.java и истата да биде сместена во ./test/Test_br_indeks.java. Тест класата да се постави на оддалечениот репозиториум.
 
 # Упатство:
 
